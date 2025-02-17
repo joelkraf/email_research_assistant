@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=NB7I8dnkvNw
+
 # Google Search Email Research Assistant - Deployed to Render
 
 Deploy an email research assistant to send you a daily summary of the latest AI research (or whatever you want).
